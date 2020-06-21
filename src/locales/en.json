@@ -1,0 +1,9 @@
+{
+    "tags": {
+        "blacklist": "ブラックリスト",
+        "suspicious": "怪しい",
+        "good": "良い顧客",
+        "spam": "スパム"
+    },
+    "no_answer": "no answer"
+}
