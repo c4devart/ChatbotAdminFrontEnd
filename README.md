@@ -1,4 +1,4 @@
-# frontend
+# frontend (connected with Firebase)
 
 ## Project setup
 ```
